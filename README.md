@@ -6,6 +6,7 @@ https://huggingface.co/Mr-FineTuner/Summary-model-better
 In the demo file, you can use our model to try various input. Run it on Google Colab so you can connect your python notebook into the Google Drive easily.
 
 Before you execute file "Demo_Deeplearning.ipynb", make directory "DeepLearning_UAS" in directory Drive/MyDrive at Google Drive first. After that, make directory "data" and "results in directory "DeepLearning_UAS".
+You can download the file here https://drive.google.com/file/d/1nDmHfkMcuuH9kN-Yp6IHBwanCSleBTo2/view?usp=sharing
 
 Move the "eng-indo.txt" to directory "data" that has been created before.
 
