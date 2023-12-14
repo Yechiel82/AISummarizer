@@ -13,6 +13,8 @@ Unzip the "fine-tuned-model.zip" and "fine-tuned-tokenizer.zip". After unzip the
 
 Now, you can run it freely.
 
+If you want to know how the summarizer and translate model trained, you can run "Summarizer_Bart.ipynb" and "Translate_Transformer.ipynb".
+
 Kelompok 6
 - Elisabeth Violina (IBDA 2021/212100693)
 - Fredrik (IBDA 2021/212100205)
