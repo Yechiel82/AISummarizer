@@ -9,7 +9,7 @@ Before you execute file "Demo_Deeplearning.ipynb", make directory "DeepLearning_
 
 Move the "eng-indo.txt" to directory "data" that has created before.
 
-Unzip the "fine-tuned-model.zip" and "fine-tuned-tokenizer.zip". After unzip these two ZIP file, move them to directory "results" that has created before.
+Unzip the "fine-tuned-model.zip" and "fine-tuned-tokenizer.zip". After unzip these two ZIP file, move them to directory "results" that has created before. This is a Transformer model for translate.
 
 Now, you can run it freely.
 
